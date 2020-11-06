@@ -4,7 +4,7 @@
 - Ji, Qingchuan (qji5@wisc.edu)
 - Kou, Huitong (hkou2@wisc.edu)
 - Rui, Peibin (prui@wisc.edu)
-- Shi, Daiyi (@wisc.edu)
+- Shi, Daiyi (dshi42@wisc.edu)
 - Su, Haohao (hsu69@wisc.edu)
 
 ## Goal
